@@ -1,1 +1,3 @@
-# flutter24
+# zomato_sqlite
+
+A new Flutter project.
